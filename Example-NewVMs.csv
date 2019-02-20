@@ -1,0 +1,4 @@
+name,host,network,ip,gateway,Datastore,Template,Cluster
+test001,10.10.10.1,vlan1,10.0.0.10,10.0.0.1,VM0 (host1),rhel7.5.32,host1
+test002,10.10.10.1,vlan1,10.0.0.11,10.0.0.1,VM0 (host1),rhel7.5.32,host1
+test003,10.10.10.2,vlan1,10.0.0.12,10.0.0.1,VM0 (host2),rhel7.5.32,host2
